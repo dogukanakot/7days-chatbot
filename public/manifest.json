@@ -1,0 +1,22 @@
+{
+  "name": "7 Days Nova AI Asistan",
+  "short_name": "7 Days Nova",
+  "description": "7 Days Sigorta, Havacılık ve Akademi AI Asistanı",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#003366",
+  "theme_color": "#003366",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
